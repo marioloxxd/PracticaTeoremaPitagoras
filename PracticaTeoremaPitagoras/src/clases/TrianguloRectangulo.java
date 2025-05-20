@@ -92,6 +92,14 @@ public class TrianguloRectangulo {
 		return this.b;
 	}
 	
+	/**
+	 * Metodo get para obtener el valor de c
+	 * @return el valor de c
+	 */
+	public double getC() {
+		return this.c;
+	}
+	
 	//toString
 	 @Override
 	    public String toString() {
